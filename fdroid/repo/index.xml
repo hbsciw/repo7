@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="کاردرمانی هفت" pubkey="30820503308202eba0030201020204684b4a2d300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833313138343535395a170d3439303131363138343535395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100ce2dcdd1aac4df7e26e013a09dd395f7e9a53414d2544ba154371c7fb5e1fa0db87d3d7b502bd030cb96c6720e524f826b21560ce484edaa73c4f9501a35d6be389525b7308d93712ec8e8c370982762d0b7ca19d927446ec1bf7833d8af9fc87fd8b655d8b7dbfb01f2014d9a13d6b60b27fc5a70d3cd6623c34c078f0bf4d576e53b7aabe2c6809dfecc8cbfaecca9e42ee2e8f117d139b64962d52d45f468f372c533a1ea675a059a10a9dfad645948f743acae3bf541e350d70b9b8943cad3db0ee74b51488395b39b3272d440cd21af234e051c29f9d440ab8a86c65299b2fa4e4c2ad72af6c2204528167170a4fb16dab8f9bb6498c07a5675f3b0f708d4abd9b4a2620594c21e8dc71502edf22f56cd884ccb2bc9717972bb9ff46b4eeb94d812fb1e1df80c1a883fd385cc2b35ee42a70c72c6d08545eaea62a697a18b2bfec419b81a0da9f0a3b3dbe3505084efc2a3565cae7686e975483f091e89f31b11fe3f7a4a76239c2b87a77d5c31233ec16c210222a3629fa4ac9d86a122ae02b5f86d1cd2535abca01f79a93f4278fb8957c3ebcce9dc0dca5044c1977231f664ebb587959115570cc2c0d4f767cddcd12fce22b041b2031d3ca4101525064677a8571b3f498559b9659dbb8471079704bebbaf891dcb21937a5b97dab73865ec9212a8d666ac867d4751b095828a4e79f856ec628aeb2a8742d2ca4e370203010001a321301f301d0603551d0e04160414d7fea68730dc6a22c4aecffe26a0dfb3e8f9cca7300d06092a864886f70d01010b050003820201008fd3658084b43df6cb689001564184a171d653194b7772c0363b04d5ac03a59bbab6d722d02a1a5f12fbfbb6e7aec6c55a48a620803e202309415044ec7c770e060f57be60f085b924d7be094088bebac506684f52f93a1c25fb2bb28de0343f1b738afdce67e6828bf3e0f005e7cef79dd05b499e8ba17f51d156cce923f9240b9639c2fb481c3467eccb2642b8f536ce5a9c1adb07ac402e5dbcd107865a4fbda90b9119e13f1f0c89dc2b58c0d8c481bb79251d48a83bf399c0375658bb2c018994df25397825377e1150d2051b622ed041bd89ce8f4c0e2cbec51911a79c5c93a38515374e36db5eee47c5b50d6c76339f1a55504e6108a91be9862720fb07f32ce5f0640ace3b9f0564e2b707ed68b255896329ae856dd21e2f5742b21e5e193a67a1b4912bdcf0f96ad7fc13c17436f967e58995c6b01e1dd75f513dcc111dc06fb88cb4e136667e7ba605bc55ffb66eaa97229815f0b388891a1f28e0b4cb83ab857a94ada3a444d6a49d972a14e12bdab1e0cd6c7bbd0a29093a094d831657b56741acd8da5123ee7143189acef6a0932bb63ffa59a02ebf71c5483b789fb3b04fff09c5f9a5a1b487a98136fe02c3bd82b2883ff870ac606732dbd466f482f8267087d70e3fdbbb258222ecad7c5d38eaed0e3f89aae0162420c0e6366cc32bdd8f627dc6c9c6bf1d5293435efa0f1c341ed2e87f9638e09a437c29" timestamp="1630441128" url="https://github.com/hbsciw/repo7/raw/master/fdroid/repo" version="21">
+		<description>کاردرمانی هفت</description>
+		<mirror>https://github.com/hbsciw/repo7/raw/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="com.one1line.onetouch.onestroke.dotgame">
+		<id>com.one1line.onetouch.onestroke.dotgame</id>
+		<added>2021-08-31</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>One Line</name>
+		<summary>تقویت مهارت problem solving ، تفهیم ترتیب و توالی</summary>
+		<icon>com.one1line.onetouch.onestroke.dotgame.131.png</icon>
+		<desc>تقویت مهارت problem solving ، تفهیم ترتیب و توالی</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>131</marketvercode>
+		<package>
+			<version>2.2.31</version>
+			<versioncode>131</versioncode>
+			<apkname>4_5865977229485280077.apk.apk</apkname>
+			<hash type="sha256">6721759f20c98d2b7a051688a5f5379b09047a952f7b645f5be04c638c343e02</hash>
+			<size>19735923</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>c33d356c0c661d3d7b127c9cf0ac752f</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+</fdroid>
